@@ -1,0 +1,161 @@
+*{
+    margin: auto;
+    padding: 0;
+}    
+.main-div{
+
+}
+.banner{
+    background-image: url(./images/Banner\ Image.png);
+    height: 600px;
+    width: 1320px;
+   color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.tac{
+    text-align: center;
+}
+.happy-new{
+    color: #fff;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.new-yeaparty-celebration{
+ color: #FFF;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+/* line-height: 95px; 131.944% */
+}
+
+.new-year{
+    color: #fff;
+}
+
+.container-off{
+    text-align: center;
+    width: 1600px;
+    height: 7335pxpx;
+    margin-top: 50px;
+}
+.off{
+color: #F00;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.holiday{
+ color: #F00;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all{
+ color: #070211;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.happy-new-year{
+ width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
+
+
+.second-banner{
+    background-image: url(./images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+}
+.welcome{
+ color: #FFF;
+ font-family: 'Open Sans', sans-serif;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+.mid-night{
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+   font-size: 64px;
+   font-style: normal;
+   font-weight: 900;
+   line-height: 88px; /* 137.5% */
+   letter-spacing: 7.04px;  
+}
+.dollar{
+color: rgba(255, 255, 255, 0.80);
+font-family: 'Open Sans', sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.button-div{
+color: #FFF;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.third-div-container{
+ width: 1320px;
+height: 482px;
+flex-shrink: 0;
+padding: 50px;
+}
+.message{
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 50px;
+    
+}
+.group-61{
+    margin-top: 50px;
+}
+.newsletter{
+    color: #070211;
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.form-email{
+    width: 648px;
+    height: 72px;
+
+}
+
+
